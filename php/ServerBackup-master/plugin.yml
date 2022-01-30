@@ -1,0 +1,5 @@
+name: ServerBackup
+main: ServerBackup\Loader
+author: bl3an_dev
+version: '1.0.4'
+api: ['3.0.0', '4.0.0']
